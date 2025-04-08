@@ -1,7 +1,6 @@
-## Daftar Project
+## 📁 Daftar Mini Project
 
-| No | Nama Project | Deskripsi | Link |
-|----|--------------|-----------|------|
-| 01 | Password Generator | Membuat kata sandi acak yang kuat | [Lihat](./01-password-generator) |
-| 02 | URL Shortener | Memendekkan URL panjang | [Lihat](./02-url-shortener) |
-| 03 | Password Strength Checker | Mengecek kekuatan password | [Lihat](./03-password-strength-checker) |
+1. [🔐 Password Generator](./01-password-generator) – Membuat kata sandi acak yang kuat.
+2. [🔗 URL Shortener](./02-url-shortener) – Memendekkan URL panjang.
+3. [🔎 Password Strength Checker](./03-password-strength-checker) – Mengecek kekuatan password.
+4. ...
